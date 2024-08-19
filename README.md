@@ -2,13 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishalYadavGit&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/VishalYadavGit?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Vishal_Yadav_XD?style=social)
 
 Welcome to my GitHub profile! I'm a Computer Enthusiast with a passion for Web development. Here you'll find a collection of my projects, contributions, and things I’m working on.
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working with **Devlooper(https://devlooper.me)**
+- 🔭 I’m currently working with **[Devlooper](https://devlooper.me)**
 - 🌱 I’m currently learning **Android**
 - 👯 I’m looking to collaborate on **Django projects**
 - 💬 Let's talk about **Business**
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Computer Enthusiast with a passion for Web d
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav-b63480258/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Vishal_Yadav_XD)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Wordpress&logoColor=white)](https://vishalyadav.tech)
 
 ## ⚡ Fun Fact
