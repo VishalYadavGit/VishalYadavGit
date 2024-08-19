@@ -4,15 +4,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/VishalYadavGit?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 
-Welcome to my GitHub profile! I'm a [Your Job Title] with a passion for [Your Interests or Expertise Areas]. Here you'll find a collection of my projects, contributions, and things I’m working on.
+Welcome to my GitHub profile! I'm a Computer Enthusiast with a passion for Web development. Here you'll find a collection of my projects, contributions, and things I’m working on.
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on **[Project Name](project-link)**
-- 🌱 I’m currently learning **[Technology/Tool]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Topics you are knowledgeable about]**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 🔭 I’m currently working with **Devlooper(https://devlooper.me)**
+- 🌱 I’m currently learning **Android**
+- 👯 I’m looking to collaborate on **Django projects**
+- 💬 Let's talk about **Business**
+- 📫 How to reach me: **[vishalsyadav4@gmail.com](mailto:vishalsyadav4@gmail.com)**
 
 ## 🔧 Technologies & Tools
 
@@ -30,29 +30,16 @@ Welcome to my GitHub profile! I'm a [Your Job Title] with a passion for [Your In
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalYadavGit&layout=compact&hide_border=true&theme=radical)
 
-## 📚 Featured Projects
-
-- [**Project 1**](https://github.com/VishalYadavGit/project1) - A brief description of Project 1.
-- [**Project 2**](https://github.com/VishalYadavGit/project2) - A brief description of Project 2.
-- [**Project 3**](https://github.com/VishalYadavGit/project3) - A brief description of Project 3.
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav-b63480258/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Wordpress&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Wordpress&logoColor=white)](https://vishalyadav.tech)
 
 ## ⚡ Fun Fact
 
-*Add something quirky or fun about yourself!*
+*I love learning about businesses*
+*I love to travel :)*
 
 ---
 
