@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a Computer Enthusiast with a passion for Web d
 ## 📈 GitHub Stats
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalYadavGit&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<small>**This does not includes private repos.**</small>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalYadavGit&layout=compact&hide_border=true&theme=radical)
 
