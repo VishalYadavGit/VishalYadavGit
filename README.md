@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a Computer Enthusiast with a passion for Web d
 
 ## ⚡ Fun Fact
 
-*I love learning about businesses*<br>
+*I love learning about businesses✌️*<br>
 *I love to travel :)*
 
 ---
